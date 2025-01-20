@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+
+data_object_calib/
+data_object_image_2/
+data_object_image_3/
+data_object_label_2/
+NYU Depth V2/

@@ -1,0 +1,19 @@
+{
+    "KITTI": {
+        "root": "Depth Estimation/data/raw/KITTI",
+        "splits": {
+            "training": {
+                "leftImages": "data_object_image_2/training/image_2",
+                "rightImages": "data_object_image_3/training/image_3",
+                "calibration": "data_object_calib/training/calib",
+                "labels": "data_object_label_2/training/label_2"
+            },
+            "testing": {
+                "leftImages": "data_object_image_2/testing/image_2",
+                "rightImages": "data_object_image_3/testing/image_3",
+                "calibration": "data_object_calib/testing/calib",
+                "labels": null
+            }
+        }
+    }
+}

@@ -1,6 +1,6 @@
 {
     "KITTI": {
-        "root": "Depth-Estimation/data/raw/KITTI",
+        "root": "D:/Depth Estimation/data/raw/KITTI",
         "splits": {
             "training": {
                 "leftImages": "data_object_image_2/training/image_2",

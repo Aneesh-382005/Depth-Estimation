@@ -7,3 +7,9 @@ data_object_image_2/
 data_object_image_3/
 data_object_label_2/
 NYU Depth V2/
+
+results/
+test/
+
+checkpoints/
+*.pth

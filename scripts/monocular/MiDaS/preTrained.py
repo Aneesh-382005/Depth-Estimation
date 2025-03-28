@@ -51,3 +51,4 @@ os.makedirs(outputPath, exist_ok=True)
 outputPath = os.path.join(outputPath, filename)
 
 cv2.imwrite(outputPath, coloredOutput)
+    
